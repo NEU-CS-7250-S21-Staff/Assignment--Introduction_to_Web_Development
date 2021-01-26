@@ -128,6 +128,10 @@ We will grade based on what is visible on the GitHub Page.
 
 [MDN Learn to Style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
+# Additional information
+
+Please see our [general course information repo](https://github.com/NEU-CS-7250-S21-Staff/General_Course_Information) for web development tips and troubleshooting suggestions.
+
 # Assignment setup (for instructors only)
 
 See https://github.com/NEU-CS-7250-S21-Staff/General_Course_Information/blob/master/assignment-setup.md
